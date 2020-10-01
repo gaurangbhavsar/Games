@@ -2,6 +2,12 @@
 ```
 Some games created by python code.
 You can star this repository to keep track of the project if it's helpful for you, thank you for your support.
+I think that the Pikach Go Go Go is best , made same as anime .
+```
+# ABOUT 
+```
+Best games to work with .
+Work as well as play . The best to be stress free 
 ```
 
 # Statement
